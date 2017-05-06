@@ -1,0 +1,2 @@
+# coder-manual-rails
+MyFirstProject
